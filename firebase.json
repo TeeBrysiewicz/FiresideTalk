@@ -1,0 +1,9 @@
+{
+  "firebase": "FiresideTalk",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
