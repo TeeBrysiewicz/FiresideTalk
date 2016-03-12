@@ -1,0 +1,25 @@
+#title {
+	color: black;
+	display: inline-block;
+	padding: 20px;
+
+}
+.header a {
+	color: blue;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+}
+.header a:hover {
+	color: lightblue;
+}
+.about {
+	width: 25%;
+	margin-left: 10%;
+}
+.new-msg-link a {
+	padding: 10px;
+	font-size: 18px;
+	color: purple;
+	text-decoration: none;
+}
